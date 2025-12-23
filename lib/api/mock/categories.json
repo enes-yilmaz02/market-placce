@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "cat-1",
+      "name": "Electronics",
+      "slug": "electronics",
+      "parentId": null,
+      "icon": "🎧",
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "Wearables",
+      "slug": "wearables",
+      "parentId": "cat-1",
+      "icon": "⌚",
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "name": "Furniture",
+      "slug": "furniture",
+      "parentId": null,
+      "icon": "🪑",
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "name": "Gaming",
+      "slug": "gaming",
+      "parentId": "cat-1",
+      "icon": "🎮",
+      "order": 4
+    }
+  ]
+}

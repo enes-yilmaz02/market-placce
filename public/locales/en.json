@@ -1,0 +1,50 @@
+{
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "favorites": "Favorites",
+    "search": "Search...",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Not Found"
+  },
+  "product": {
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "reviews",
+    "rating": "Rating",
+    "viewDetails": "View Details",
+    "specifications": "Specifications",
+    "vendor": "Vendor"
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "empty": "You don't have any favorites yet",
+    "emptyDescription": "Add products to favorites to easily track them",
+    "count": "{{count}} products"
+  },
+  "footer": {
+    "copyright": "© 2025 Pazaryeri. All rights reserved.",
+    "aboutUs": "About Us",
+    "contactUs": "Contact",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "seo": {
+    "home": {
+      "title": "Pazaryeri - Modern Shopping Experience",
+      "description": "Thousands of products, secure shopping, and fast delivery"
+    },
+    "products": {
+      "title": "Products - Pazaryeri",
+      "description": "Wide range of products for all your needs"
+    },
+    "favorites": {
+      "title": "My Favorites - Pazaryeri",
+      "description": "Track your favorite products here"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "common": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "categories": "Kategoriler",
+    "favorites": "Favoriler",
+    "search": "Ara...",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "notFound": "Bulunamadı"
+  },
+  "product": {
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Çıkar",
+    "inStock": "Stokta",
+    "outOfStock": "Stokta Yok",
+    "reviews": "değerlendirme",
+    "rating": "Puan",
+    "viewDetails": "Detayları Gör",
+    "specifications": "Özellikler",
+    "vendor": "Satıcı"
+  },
+  "favorites": {
+    "title": "Favori Ürünlerim",
+    "empty": "Henüz favori ürününüz yok",
+    "emptyDescription": "Beğendiğiniz ürünleri favorilere ekleyerek kolayca takip edebilirsiniz",
+    "count": "{{count}} ürün"
+  },
+  "footer": {
+    "copyright": "© 2025 Pazaryeri. Tüm hakları saklıdır.",
+    "aboutUs": "Hakkımızda",
+    "contactUs": "İletişim",
+    "termsOfService": "Kullanım Koşulları",
+    "privacyPolicy": "Gizlilik Politikası"
+  },
+  "seo": {
+    "home": {
+      "title": "Pazaryeri - Modern Alışveriş Deneyimi",
+      "description": "Binlerce ürün, güvenli alışveriş ve hızlı teslimat imkanı"
+    },
+    "products": {
+      "title": "Ürünler - Pazaryeri",
+      "description": "Geniş ürün yelpazesi ile ihtiyacınız olan her şey"
+    },
+    "favorites": {
+      "title": "Favorilerim - Pazaryeri",
+      "description": "Beğendiğiniz ürünleri buradan takip edin"
+    }
+  }
+}

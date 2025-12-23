@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Premium Wireless Headphones",
+      "slug": "premium-wireless-headphones",
+      "description": "High-quality wireless headphones with active noise cancellation and 30-hour battery life.",
+      "price": 299.99,
+      "currency": "USD",
+      "images": [
+        {
+          "id": "img-1",
+          "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+          "alt": "Premium Wireless Headphones",
+          "width": 800,
+          "height": 800,
+          "isPrimary": true
+        }
+      ],
+      "category": {
+        "id": "cat-1",
+        "name": "Electronics",
+        "slug": "electronics",
+        "parentId": null,
+        "icon": "🎧",
+        "order": 1
+      },
+      "vendor": {
+        "id": "vendor-1",
+        "name": "TechStore",
+        "slug": "techstore",
+        "logo": "https://ui-avatars.com/api/?name=TechStore&background=random",
+        "rating": 4.8,
+        "verified": true
+      },
+      "rating": 4.7,
+      "reviewCount": 342,
+      "inStock": true,
+      "attributes": [
+        {
+          "id": "attr-1",
+          "name": "Battery Life",
+          "value": "30 hours"
+        },
+        {
+          "id": "attr-2",
+          "name": "Connectivity",
+          "value": "Bluetooth 5.0"
+        }
+      ],
+      "createdAt": "2025-01-15T10:00:00Z",
+      "updatedAt": "2025-01-20T15:30:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch Series X",
+      "slug": "smart-watch-series-x",
+      "description": "Advanced fitness tracking with heart rate monitoring and GPS functionality.",
+      "price": 399.99,
+      "currency": "USD",
+      "images": [
+        {
+          "id": "img-2",
+          "url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+          "alt": "Smart Watch Series X",
+          "width": 800,
+          "height": 800,
+          "isPrimary": true
+        }
+      ],
+      "category": {
+        "id": "cat-2",
+        "name": "Wearables",
+        "slug": "wearables",
+        "parentId": "cat-1",
+        "icon": "⌚",
+        "order": 2
+      },
+      "vendor": {
+        "id": "vendor-1",
+        "name": "TechStore",
+        "slug": "techstore",
+        "logo": "https://ui-avatars.com/api/?name=TechStore&background=random",
+        "rating": 4.8,
+        "verified": true
+      },
+      "rating": 4.5,
+      "reviewCount": 189,
+      "inStock": true,
+      "attributes": [
+        {
+          "id": "attr-3",
+          "name": "Display Size",
+          "value": "1.4 inches"
+        },
+        {
+          "id": "attr-4",
+          "name": "Water Resistance",
+          "value": "50m"
+        }
+      ],
+      "createdAt": "2025-01-18T12:00:00Z",
+      "updatedAt": "2025-01-22T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Ergonomic Office Chair",
+      "slug": "ergonomic-office-chair",
+      "description": "Premium ergonomic chair with lumbar support and adjustable armrests.",
+      "price": 449.99,
+      "currency": "USD",
+      "images": [
+        {
+          "id": "img-3",
+          "url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=800&fit=crop",
+          "alt": "Ergonomic Office Chair",
+          "width": 800,
+          "height": 800,
+          "isPrimary": true
+        }
+      ],
+      "category": {
+        "id": "cat-3",
+        "name": "Furniture",
+        "slug": "furniture",
+        "parentId": null,
+        "icon": "🪑",
+        "order": 3
+      },
+      "vendor": {
+        "id": "vendor-2",
+        "name": "HomeComfort",
+        "slug": "homecomfort",
+        "logo": "https://ui-avatars.com/api/?name=HomeComfort&background=random",
+        "rating": 4.6,
+        "verified": true
+      },
+      "rating": 4.8,
+      "reviewCount": 256,
+      "inStock": true,
+      "attributes": [
+        {
+          "id": "attr-5",
+          "name": "Material",
+          "value": "Mesh & Leather"
+        },
+        {
+          "id": "attr-6",
+          "name": "Weight Capacity",
+          "value": "150kg"
+        }
+      ],
+      "createdAt": "2025-01-10T08:00:00Z",
+      "updatedAt": "2025-01-19T14:20:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Mechanical Gaming Keyboard",
+      "slug": "mechanical-gaming-keyboard",
+      "description": "RGB backlit mechanical keyboard with customizable keys and macro support.",
+      "price": 159.99,
+      "currency": "USD",
+      "images": [
+        {
+          "id": "img-4",
+          "url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop",
+          "alt": "Mechanical Gaming Keyboard",
+          "width": 800,
+          "height": 800,
+          "isPrimary": true
+        }
+      ],
+      "category": {
+        "id": "cat-4",
+        "name": "Gaming",
+        "slug": "gaming",
+        "parentId": "cat-1",
+        "icon": "🎮",
+        "order": 4
+      },
+      "vendor": {
+        "id": "vendor-1",
+        "name": "TechStore",
+        "slug": "techstore",
+        "logo": "https://ui-avatars.com/api/?name=TechStore&background=random",
+        "rating": 4.8,
+        "verified": true
+      },
+      "rating": 4.6,
+      "reviewCount": 412,
+      "inStock": true,
+      "attributes": [
+        {
+          "id": "attr-7",
+          "name": "Switch Type",
+          "value": "Cherry MX Red"
+        },
+        {
+          "id": "attr-8",
+          "name": "Layout",
+          "value": "Full-size"
+        }
+      ],
+      "createdAt": "2025-01-12T11:00:00Z",
+      "updatedAt": "2025-01-21T16:45:00Z"
+    }
+  ],
+  "meta": {
+    "total": 4,
+    "page": 1,
+    "perPage": 10,
+    "totalPages": 1
+  }
+}
