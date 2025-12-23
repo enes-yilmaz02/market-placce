@@ -12,12 +12,12 @@ const simulateDelay = (ms: number = 300) =>
  * Currently uses mock JSON data with simulated delays
  */
 export class ApiClient {
-  private baseUrl: string;
+ // Başına _ ekleyerek TypeScript'e "kullanılmıyor ama kalsın" diyoruz
+  private _baseUrl: string;
 
   constructor(baseUrl: string = "") {
-    this.baseUrl = baseUrl;
+    this._baseUrl = baseUrl;
   }
-
   /**
    * Fetch all products with pagination
    */

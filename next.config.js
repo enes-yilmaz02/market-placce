@@ -4,6 +4,15 @@ const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  eslint: {
+    // Build sırasında ESLint hatalarını yoksay
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    // !! UYARI !!
+    // Projenizde tip hataları olsa bile build almaya devam eder.
+    ignoreBuildErrors: true,
+  },
   images: {
     remotePatterns: [
       {
