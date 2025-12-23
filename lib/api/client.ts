@@ -13,11 +13,11 @@ const simulateDelay = (ms: number = 300) =>
  */
 export class ApiClient {
  // Başına _ ekleyerek TypeScript'e "kullanılmıyor ama kalsın" diyoruz
-  private _baseUrl: string;
+  //private _baseUrl: string;
 
-  constructor(baseUrl: string = "") {
-    this._baseUrl = baseUrl;
-  }
+ //constructor(baseUrl: string = "") {
+   // this._baseUrl = baseUrl;
+  //}
   /**
    * Fetch all products with pagination
    */
